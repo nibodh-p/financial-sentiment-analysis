@@ -19,6 +19,6 @@ An end-to-end Python data pipeline that fetches live financial news headlines vi
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/nibodh-p/financial-sentiment-analysis.git](https://github.com/YOUR_USERNAME/financial-sentiment-analysis.git)
+   git clone [https://github.com/nibodh-p/financial-sentiment-analysis.git](https://github.com/nibodh-p/financial-sentiment-analysis.git)
    cd financial-sentiment-analysis
 
